@@ -1,7 +1,7 @@
 import telebot
 import requests
 
-API_TOKEN = "8039221622:AAFUvi3teX_vJAJu4gmmSv0xzYSzGV6ZOgE"
+API_TOKEN = " ******** "
 bot = telebot.TeleBot(API_TOKEN)
 API_URL = "http://127.0.0.1:8000/drivers"
 
